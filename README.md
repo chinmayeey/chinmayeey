@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Data Analyst with nearly 2 years of experience** in analyzing large datasets and building data-driven solutions. I specialize in **Python, SQL, Tableau, and Excel** to transform raw data into meaningful insights that support business decision-making.
+I am a **Data Analyst with nearly 2 years of experience** in analyzing large datasets and building data-driven solutions. I specialize in **Python, SQL,Power bi,  Tableau, and Excel** to transform raw data into meaningful insights that support business decision-making.
 
 I have worked on **dealership performance analytics, pricing analysis, and reporting automation**, helping stakeholders improve operational efficiency and reporting accuracy.
 
